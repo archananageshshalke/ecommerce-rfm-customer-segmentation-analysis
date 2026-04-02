@@ -83,7 +83,7 @@ Using real-world transactional data (~93,000+ customers), this analysis uncovers
 
 📸 Dashboard Preview
 
-"Dashboard Preview" (dashboard/dashboard_preview.png)
+"Dashboard Preview" (dashboard/dashboard_preview.png.png)
 
 ---
 
